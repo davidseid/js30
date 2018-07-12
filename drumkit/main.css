@@ -1,0 +1,20 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.keys {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.key {
+  border: solid 1px black;
+  padding: 5px;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+}
